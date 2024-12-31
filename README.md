@@ -1,4 +1,4 @@
 # MESAF
-![Static Badge](https://img.shields.io/badge/license-CC_BY-NC-SA-green)
+![Static Badge](https://img.shields.io/badge/license-sk-green)
 
 Interface for mesa data visualization
